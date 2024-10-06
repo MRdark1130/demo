@@ -1,0 +1,4 @@
+#!/bin/bash
+name=$1
+name2=$2
+echo "i am $name and i like $name2"
